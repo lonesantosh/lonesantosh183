@@ -40,10 +40,10 @@ Change Drive Like C To D ( cd..Enter D:Enter cd NareshIT enter)
           								set pagesize 2000;
           creating tables           installation of oracle 		set linesize 2000;
           creating views            creating database
-          creating synonyms         creating userids & pwds	Sheng	124+119+116+128+131+122+106= 846 (8.46x6995=59177)
-          creating indexes          db backup & restore		Banda   126+128+129+122  =	     505 (5.05x6920=34946)
-          creating procedures       db export & import						---------------------------
-          creating functions        db upgradation & migration					     1351   94123
+          creating synonyms         creating userids & pwds	
+          creating indexes          db backup & restore		
+          creating procedures       db export & import						
+          creating functions        db upgradation & migration					    
           creating packages         db mirroring & replication0+3
 
           creating triggers         performance tuning
