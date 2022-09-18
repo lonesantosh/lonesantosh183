@@ -1,9 +1,14 @@
-Mysql workbanch
-mySql--> \sql
-\connect  root@localhost:3306
-show databases
-use database
+Mysql --> pwd=password
+1)show databases
+2)create database ntsp715; 
+3)use ntsp715;
+unname& pwd=lone  Oracle DB
+1) alter session set "_oracle_script"=true;
 
+2) SQL Plus --> create user ntsp715 identified by ntsp
+3) grant all privileges to oracle7am
+
+select * from dba_users where username='ntsp715'
 1) SELECT * FROM all_users;
 --> Display all users of database
 
