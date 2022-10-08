@@ -1,3 +1,4 @@
+cd .. -->d: to chande location
 Mysql --> pwd=password
 1)show databases
 2)create database ntsp715; 
