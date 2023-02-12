@@ -1,0 +1,2 @@
+dbuser=test
+dbpwd=test
